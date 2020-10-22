@@ -2,6 +2,7 @@ baseURL = "maknotavailable.github.io"
 languageCode = "en-us"
 title = "MAK Site"
 theme = "hallo"
+googleAnalytics = "UA-26369179-1"
 [Author]
     name = "martin"
 [params]
@@ -21,3 +22,8 @@ theme = "hallo"
         icon = "linkedin"
         title = "LinkedIn"
         url = "https://linkedin.com/in/mkayser"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "Email"
+        url = "mailto:mail@martinkayser.com"
