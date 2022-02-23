@@ -1,4 +1,4 @@
-# MAK Web
+# MAK Basic Website
 
 Development:
 > hugo server -w

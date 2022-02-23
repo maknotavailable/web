@@ -22,8 +22,3 @@ googleAnalytics = "UA-26369179-1"
         icon = "linkedin"
         title = "LinkedIn"
         url = "https://linkedin.com/in/mkayser"
-    [[params.links]]
-        iconset = "fas"
-        icon = "envelope"
-        title = "Email"
-        url = "mailto:mail@martinkayser.com"
