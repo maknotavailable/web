@@ -1,8 +1,5 @@
-# MAK Basic Website
+# martinkayser.com
 
-Development:
-> hugo server -w
+Plain HTML/CSS personal site. No build step.
 
-Deployment:
-> git push
-> bash deploy.sh
+**Deploy:** push to `master` — GitHub Pages serves from root.
